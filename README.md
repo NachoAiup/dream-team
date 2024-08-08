@@ -1,4 +1,8 @@
-Para probar la app, se debe clonar el repo y agregar las variables de entorno en un nuevo archivo .env.local guiandote con el .env.local.example.
+Deploy:
+
+https://dream-team-na.netlify.app/
+
+Para probar la app en local, se debe clonar el repo y agregar las variables de entorno en un nuevo archivo .env.local guiandote con el .env.local.example.
 
 Luego, para correr en local:
 
